@@ -1,4 +1,4 @@
-# React Native sample project using Expo without ejecting
+# React Native sample project using Expo without ejecting aaa
 
 This sample project illustrates all of the necessary steps to successfully build and publish a React Native Android and iOS apps with Codemagic when using Expo and without having to eject the app beforehand. It covers the basic steps such as build versioning, code signing and publishing.
 
